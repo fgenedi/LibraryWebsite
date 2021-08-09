@@ -1,5 +1,6 @@
 # LibraryWebsite
-This project is a library website 
+This project is a library website.
+
 Walkthrough: 
   Users can create accounts by signing up, if an unregistered user tries to login they will be shown an error message that they aren't registered then redirected to 
   the registration page, if a user tries entering an already existing username in the username field a "username already taken" error message will show. Users can then
