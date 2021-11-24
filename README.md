@@ -1,5 +1,5 @@
 # LibraryWebsite
-This project is a library website.
+This project is a library website written in javaScript, HTML, and CSS.
 
 Walkthrough: 
   Users can create accounts by signing up, if an unregistered user tries to login they will be shown an error message that they aren't registered then redirected to 
@@ -10,5 +10,8 @@ Walkthrough:
   blurb, and corresponding movie trailer that can be played. Users can also explore books according to genre, the available genres include fiction, novels, and poetry. Users 
   can add different books to their read list which they can access from the home page, in case a user tries to add a book to their readlist that is already there an error
   message will show notifying the user. 
+  
+Deployment:
+  This website was deployed on heroku, and can be accessed through this link https://ancient-waters-08132.herokuapp.com/login
   
   
